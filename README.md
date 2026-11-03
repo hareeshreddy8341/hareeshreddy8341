@@ -1,6 +1,6 @@
 
 <!-- ANIMATED HEADER -->
-<h1 align="center">Hi 👋, I'm Hareesh Reddy</h1>
+<h1 align="center">Hi 👋 Hareeshreddy Yaramala</h1>
 
 <h3 align="center">
   Software Development Engineer | Java Developer | Full Stack Developer
