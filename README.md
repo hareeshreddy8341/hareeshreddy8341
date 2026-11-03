@@ -93,7 +93,7 @@ A Python-based application that uses Queue Data Structures to process events.
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/hareeshreddy8341">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/hareesh-reddy-yaramala-397185389/">
